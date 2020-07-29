@@ -1,0 +1,2 @@
+# Apache + FPM Container Image Based on Alpine 
+This project uses supervisord to run the Apache and PHP-FPM services. The image is very lightweight. Feel free to add other packages or extensions if you feel you need other packages.
